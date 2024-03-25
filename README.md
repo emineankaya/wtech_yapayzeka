@@ -1,1 +1,1 @@
-# wtech_yapayzeka
+# wtech yapay zeka
